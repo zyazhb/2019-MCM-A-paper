@@ -1,0 +1,25 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}% 
+\contentsline {subsection}{\numberline {1.1}Background}{1}{subsection.1.1}% 
+\contentsline {subsection}{\numberline {1.2}Problem Restatement}{1}{subsection.1.2}% 
+\contentsline {section}{\numberline {2}Assumptions and Symbol}{1}{section.2}% 
+\contentsline {subsection}{\numberline {2.1}Assumptions}{1}{subsection.2.1}% 
+\contentsline {subsection}{\numberline {2.2}Symbol}{2}{subsection.2.2}% 
+\contentsline {section}{\numberline {3}The Mathematical Model of Signal reflect on the sea}{2}{section.3}% 
+\contentsline {subsection}{\numberline {3.1}Characteristics of Dragon}{2}{subsection.3.1}% 
+\contentsline {subsubsection}{\numberline {3.1.1}Weight of Dragon}{2}{subsubsection.3.1.1}% 
+\contentsline {subsubsection}{\numberline {3.1.2}Spray flame process}{3}{subsubsection.3.1.2}% 
+\contentsline {subsubsection}{\numberline {3.1.3}Flying process}{4}{subsubsection.3.1.3}% 
+\contentsline {subsubsection}{\numberline {3.1.4}Activity range model}{5}{subsubsection.3.1.4}% 
+\contentsline {subsubsection}{\numberline {3.1.5}Diet structure of Dragon}{6}{subsubsection.3.1.5}% 
+\contentsline {subsubsection}{\numberline {3.1.6}Relationship between metabolism and ambient temperature}{7}{subsubsection.3.1.6}% 
+\contentsline {subsubsection}{\numberline {3.1.7}Dragon growth model}{10}{subsubsection.3.1.7}% 
+\contentsline {subsection}{\numberline {3.2}Energy flow between Dragon and ecology Model}{11}{subsection.3.2}% 
+\contentsline {subsubsection}{\numberline {3.2.1}Relationship between weight of Dragon and climate}{11}{subsubsection.3.2.1}% 
+\contentsline {subsubsection}{\numberline {3.2.2}Growing Dragon with mixed feeding}{13}{subsubsection.3.2.2}% 
+\contentsline {subsubsection}{\numberline {3.2.3}Growing Dragon in fixed area}{14}{subsubsection.3.2.3}% 
+\contentsline {section}{\numberline {4}Conclusion}{14}{section.4}% 
+\contentsline {subsection}{\numberline {4.1}Strengths}{15}{subsection.4.1}% 
+\contentsline {subsection}{\numberline {4.2}Weaknesses}{15}{subsection.4.2}% 
+\contentsline {section}{References}{15}{subsection.4.2}% 
+\contentsline {section}{\numberline {5}Letter}{16}{section.5}% 
+\contentsfinish 
